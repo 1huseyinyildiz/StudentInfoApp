@@ -1,0 +1,11 @@
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\bin\Debug\net6.0\StudentInfoApp.Core.deps.json
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\bin\Debug\net6.0\StudentInfoApp.Core.dll
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\bin\Debug\net6.0\StudentInfoApp.Core.pdb
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\StudentInfoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\StudentInfoApp.Core.AssemblyInfoInputs.cache
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\StudentInfoApp.Core.AssemblyInfo.cs
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\StudentInfoApp.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\StudentInfoApp.Core.dll
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\refint\StudentInfoApp.Core.dll
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\StudentInfoApp.Core.pdb
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Core\obj\Debug\net6.0\ref\StudentInfoApp.Core.dll

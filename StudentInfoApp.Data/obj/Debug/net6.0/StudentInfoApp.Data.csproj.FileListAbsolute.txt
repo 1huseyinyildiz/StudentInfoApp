@@ -1,0 +1,15 @@
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\bin\Debug\net6.0\StudentInfoApp.Data.deps.json
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\bin\Debug\net6.0\StudentInfoApp.Data.dll
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\bin\Debug\net6.0\StudentInfoApp.Data.pdb
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\bin\Debug\net6.0\StudentInfoApp.Core.dll
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\bin\Debug\net6.0\StudentInfoApp.Core.pdb
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.csproj.AssemblyReference.cache
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.AssemblyInfoInputs.cache
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.AssemblyInfo.cs
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.csproj.CopyComplete
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.dll
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\refint\StudentInfoApp.Data.dll
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\StudentInfoApp.Data.pdb
+C:\Projects\Eminevim\StudentInfoApp\StudentInfoApp.Data\obj\Debug\net6.0\ref\StudentInfoApp.Data.dll

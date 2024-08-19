@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "StudentInfoApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StudentInfoApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentInfoApp.Core.dll": {}
+        }
+      },
+      "StudentInfoApp.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "StudentInfoApp.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StudentInfoApp.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentInfoApp.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentInfoApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../StudentInfoApp.Core/StudentInfoApp.Core.csproj",
+      "msbuildProject": "../StudentInfoApp.Core/StudentInfoApp.Core.csproj"
+    },
+    "StudentInfoApp.Data/1.0.0": {
+      "type": "project",
+      "path": "../StudentInfoApp.Data/StudentInfoApp.Data.csproj",
+      "msbuildProject": "../StudentInfoApp.Data/StudentInfoApp.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "StudentInfoApp.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MAHIR\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\Eminevim\\StudentInfoApp\\StudentInfoApp.ConsoleApp\\StudentInfoApp.ConsoleApp.csproj",
+      "projectName": "StudentInfoApp.ConsoleApp",
+      "projectPath": "C:\\Projects\\Eminevim\\StudentInfoApp\\StudentInfoApp.ConsoleApp\\StudentInfoApp.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\MAHIR\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Eminevim\\StudentInfoApp\\StudentInfoApp.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MAHIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Projects\\Eminevim\\StudentInfoApp\\StudentInfoApp.Data\\StudentInfoApp.Data.csproj": {
+              "projectPath": "C:\\Projects\\Eminevim\\StudentInfoApp\\StudentInfoApp.Data\\StudentInfoApp.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
